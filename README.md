@@ -7,3 +7,4 @@ If you have any recommendation or shortcuts for a better and a cohesive code, be
 
 Se você tiver qualquer recomendação ou atalhos para um código mais coeso, sinta-se à vontade para registrar
 
+#the calculator file has a better and more reliable use just by add a simple line of coding
