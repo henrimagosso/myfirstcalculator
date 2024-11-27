@@ -1,5 +1,5 @@
 # myfirstcalculator
-A simple exercise to practice the basal logic in python 
+A simple exercise to practice the basal logic and syntax in python 
 
 Apenas um teste simples para treinar a lógica de programação e sintaxe de python 
 
